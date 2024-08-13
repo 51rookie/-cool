@@ -265,8 +265,11 @@ eg:markdown语言也属于一种程序
 
 ###  网络图片
 ![x](https://s2.loli.net/2024/08/14/zQgePv47ywk1nBU.webp)
-![霸王别姬](https://smms.app/image/zQgePv47ywk1nBU)
+
+![霸王别姬](https://s2.loli.net/2024/08/14/zQgePv47ywk1nBU.webp)
+
 ![p2561716440.webp](https://s2.loli.net/2024/08/14/zQgePv47ywk1nBU.webp)
+
 ![x](xxxxx)   !+[]+()组成图片     
 
 *链接类似[x](啊苏打水看见)*
