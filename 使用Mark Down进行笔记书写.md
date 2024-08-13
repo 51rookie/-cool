@@ -268,7 +268,12 @@ eg:markdown语言也属于一种程序
 
 ![霸王别姬](https://s2.loli.net/2024/08/14/zQgePv47ywk1nBU.webp)
 
-![p2561716440.webp](https://s2.loli.net/2024/08/14/zQgePv47ywk1nBU.webp)
+![p2561716440.webp](https://s2.loli.net/2024/08/14/zQgePv47ywk1nBU.webp)  AAAA建筑  BBB材料
+BBB
+
+![Logo][1]
+
+[1]: https://commonmark.org/help/images/favicon.png "Creative Commons licensed"
 
 ![x](xxxxx)   !+[]+()组成图片     
 
